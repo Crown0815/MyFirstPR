@@ -7,3 +7,4 @@ Participants:
 
 Tobias Schaffner
 Felix Kröner
+Wolfram
